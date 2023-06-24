@@ -5,6 +5,9 @@ This repo is for learning design patterns, the language used is JavaScript.
 ## Design Patterns list
 
 - Creational
-  - Factory - Done ✅
+
+  - Factory - done ✅
+  - Singleton - done ✅
+
 - Structural
 - Behavioral
