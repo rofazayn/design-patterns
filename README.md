@@ -9,5 +9,6 @@ This repo is for learning design patterns, the language used is JavaScript.
   - Factory - done ✅
   - Singleton - done ✅
 
-- Structural
 - Behavioral
+  - Strategy - done ✅
+- Structural
