@@ -17,7 +17,7 @@ class FedexStrategy extends ShippingStrategy {
 }
 
 // UPS strategy
-class UPSStrategy {
+class UPSStrategy extends ShippingStrategy {
   calculate(pkg) {
     // in here we implement the strategy for UPS
     // let's assume that the ratio for UPS is 2.33
