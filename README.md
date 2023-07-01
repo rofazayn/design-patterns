@@ -11,4 +11,5 @@ This repo is for learning design patterns, the language used is JavaScript.
 
 - Behavioral
   - Strategy - done ✅
+  - Iterator - done ✅
 - Structural
